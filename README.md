@@ -36,7 +36,7 @@
 
 ### Chạy ứng dụng:
 ![Chạy ứng dụng](image-3.png)
-
+- Click vào build , sau khi build thành công thì click vào run trên android và chọn thiết bị để run.
 ---
 
 ## Ghi chú:
