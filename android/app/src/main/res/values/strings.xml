@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">countmybirthday</string>
+    <string name="title_activity_main">countmybirthday</string>
+    <string name="package_name">ionic.countmybirthday</string>
+    <string name="custom_url_scheme">ionic.countmybirthday</string>
+</resources>
