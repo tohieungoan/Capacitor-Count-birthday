@@ -1,16 +1,44 @@
-Cài đặt :
-Môi trường yêu cầu:
-Node phiên bản v20.19.0
-Java phiên bản java 21.0.5 
-ide VS code 
-cài đặt extension Ionic trên vs code 
-di chuyển qua phần extension Ionic ta bấm vào build , sau khi build xong thì bấm vào run trên android
-![alt text](image-3.png)
-Sử dụng :
-![alt text](image.png)
-Tổng quan ứng dụng gồm phần nhập ngày sinh định dạng dd/mm
-sau khi nhập ngày sinh , ta bấm tính toán sẽ tính được số ngày cho tới sinh nhật tiếp theo
-đồng thời nó sẽ hiển thị thông báo trên ứng dụng ngay sau đó 
-![alt text](image-1.png)
-Ta cũng có thể chia sẽ thông tin đó qua các nền tảng khác
-![alt text](image-2.png)
+# Capacitor Count Birthday
+
+## Cài đặt
+
+### Môi trường yêu cầu:
+- **Node** phiên bản `v20.19.0`
+- **Java** phiên bản `21.0.5`
+- **IDE**: VS Code
+- **Cài đặt extension Ionic trên VS Code**
+
+### Các bước:
+1. Cài đặt **Ionic extension** trên VS Code.
+2. Chuyển đến phần **extension Ionic**, bấm vào **Build**.
+3. Sau khi build xong, bấm vào **Run trên Android**.
+
+---
+
+## Sử dụng
+
+### Giao diện ứng dụng:
+![Tổng quan ứng dụng](image.png)
+
+- Ứng dụng có phần nhập ngày sinh theo định dạng `dd/mm`.
+- Sau khi nhập ngày sinh, bấm **Tính toán** để xác định số ngày còn lại đến sinh nhật tiếp theo.
+- Ứng dụng sẽ hiển thị thông báo ngay sau đó.
+
+### Thông báo trong ứng dụng:
+![Thông báo ứng dụng](image-1.png)
+
+- Sau khi tính toán, ứng dụng sẽ hiển thị thông báo ngay lập tức.
+
+### Chia sẻ thông tin:
+![Chia sẻ thông tin](image-2.png)
+
+- Có thể chia sẻ kết quả qua các nền tảng khác.
+
+### Chạy ứng dụng:
+![Chạy ứng dụng](image-3.png)
+
+---
+
+## Ghi chú:
+- Đảm bảo đã cài đặt đầy đủ các môi trường cần thiết trước khi chạy ứng dụng.
+- Nếu gặp lỗi, kiểm tra lại phiên bản của **Node.js**, **Java**, và **VS Code Extensions**.
